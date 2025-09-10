@@ -1,0 +1,28 @@
+/*
+komentar ini lebih dari satu baris biasanya dipakai untuk penjelasan panjang
+*/
+/*
+package digunakan untuk mengelompokkan class supaya rapi  
+*/
+package dina3;
+
+/**
+ * untuk penjelasan yang lebih rapi dan detail
+ * @author dinaacntii
+ */
+/**
+ * public clas dipakai untuk class utama yang berisi method
+ * @author dinaacntii
+ */
+public class day3ina {
+    
+    
+    // method utama dalam java
+    public static void main(String[] args) {
+        
+        // menampilkan teks ke layar
+        // untuk komentar singkat
+        System.out.println("dinaacntii");
+    }
+   
+}

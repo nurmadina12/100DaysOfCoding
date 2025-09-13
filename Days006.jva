@@ -1,0 +1,13 @@
+
+package dinaa06;
+public class inaaaaaa {
+    public static void main(String[] args) {
+        
+            double harga_sapu = 33.5;
+            float gaji = 30.544f;
+            
+            System.out.println(harga_sapu = + harga_sapu);
+            System.out.println(gaji = + gaji);
+    
+    }
+}

@@ -1,6 +1,8 @@
 
 package duabelas;
 
+//Hari ke 12 Latihan: Membuat Program Biodata Sederhana.
+
 import java.util.Scanner;
 
 public class kelasinaaaaaaaaaaaad {
@@ -24,8 +26,5 @@ public class kelasinaaaaaaaaaaaad {
         float TinggiBadan = Biodata.nextFloat();
         System.out.println("JenisKelamin ");
         char JenisKelamin = Biodata.next ().charAt(0);
-        System.out.println("Perempuan ");
-        boolean Perempuan = Biodata.nextBoolean();
-        
     }
 }

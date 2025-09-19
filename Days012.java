@@ -26,8 +26,7 @@ public class kelasinaaaaaaaaaaaad {
         float TinggiBadanSaya = Biodata.nextFloat();
         System.out.println("JenisKelaminSaya ");
         char JenisKelaminSaya = Biodata.next ().charAt(0);
-        System.out.println("Apakah Kamu Perempuan? (true/false):");
-        boolean Perempuan = Biodata.nextBoolean();
+
         
         System.out.println("\nBiodataSederhana");
         System.out.println("NamaSaya "+NamaSaya );
@@ -38,6 +37,6 @@ public class kelasinaaaaaaaaaaaad {
         System.out.println("BeratBadanSaya "+ BeratBadanSaya);
         System.out.println("TinggiBadanSaya "+TinggiBadanSaya);
         System.out.println("JenisKelaminSaya "+ JenisKelaminSaya);
-        System.out.println("JenisKelamin Perempuan: " + (Perempuan ? "true" : "false"));
+        
     }
 }

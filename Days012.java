@@ -10,30 +10,30 @@ public class kelasinaaaaaaaaaaaad {
         Scanner Biodata = new Scanner(System.in);
         System.out.println("BiodataSederhana");
         
-        System.out.println("Nama ");
-        String Nama = Biodata.nextLine();
-        System.out.println("Umur ");
-        byte Umur = Biodata.nextByte();
-        System.out.println("TanggalLahir ");
-        short TanggalLahir = Biodata.nextShort();
-        System.out.println("Wa ");
-        long Wa = Biodata.nextLong();
-        System.out.println("TahunLahir ");
-        int TahunLahir = Biodata.nextInt();
-        System.out.println("BeratBadan ");
-        double BeratBadan = Biodata.nextDouble();
-        System.out.println("TinggiBadan ");
-        float TinggiBadan = Biodata.nextFloat();
-        System.out.println("JenisKelamin ");
-        char JenisKelamin = Biodata.next ().charAt(0);
+        System.out.println("NamaSaya ");
+        String NamaSaya= Biodata.nextLine();
+        System.out.println("SayaBerumur ");
+        byte SayaBerumur = Biodata.nextByte();
+        System.out.println("SayaLahirPadaTanggal ");
+        short SayaLahirPadaTanggal = Biodata.nextShort();
+        System.out.println("NomorWaSaya ");
+        long NomorWaSaya = Biodata.nextLong();
+        System.out.println("SayaLahirPadaTahun ");
+        int SayaLahirPadaTahun = Biodata.nextInt();
+        System.out.println("BeratBadanSaya ");
+        double BeratBadanSaya = Biodata.nextDouble();
+        System.out.println("TinggiBadanSaya ");
+        float TinggiBadanSaya = Biodata.nextFloat();
+        System.out.println("JenisKelaminSaya ");
+        char JenisKelaminSaya = Biodata.next ().charAt(0);
         
-        System.out.println("HasilInputan String "+ (Nama));
-        System.out.println("HasilInputan byte "+ (Umur));
-        System.out.println("HasilInputan short "+ (TanggalLahir));
-        System.out.println("HasilInputan long "+ (Wa));
-        System.out.println("HasilInputan int "+ (TahunLahir));
-        System.out.println("HasilInputan double "+ (BeratBadan));
-        System.out.println("HasilInputan float "+ (TinggiBadan));
-        System.out.println("HasilInputan char "+ (JenisKelamin));
+        System.out.println("HasilInputan String "+ (NamaSaya));
+        System.out.println("HasilInputan byte "+ (SayaBerumur));
+        System.out.println("HasilInputan short "+ (SayaLahirPadaTanggal));
+        System.out.println("HasilInputan long "+ (NomorWaSaya));
+        System.out.println("HasilInputan int "+ (SayaLahirPadaTahun));
+        System.out.println("HasilInputan double "+ (BeratBadanSaya));
+        System.out.println("HasilInputan float "+ (TinggiBadanSaya));
+        System.out.println("HasilInputan char "+ (JenisKelaminSaya));
     }
 }

@@ -1,0 +1,12 @@
+package dinacntisklihh;
+public class inacntihu {
+    public static void main(String[] args) {
+        int angka1 = 30;
+        int angka2 = 23;
+        int jumlah = angka1+angka2;
+        
+        System.out.println("HasilPenjumlahan "+jumlah);
+        jumlah = angka1-angka2;
+        System.out.println("HasilPengurangan "+ jumlah);
+    }
+}

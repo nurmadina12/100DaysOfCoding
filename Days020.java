@@ -7,10 +7,10 @@ public class puluhhh {
         short c = 200;
         byte d = 120;
         
-        String jr = String.valueOf(a);
-        String lg = String.valueOf(b);
+        String jr = Integer.toString (a);
+        String lg = b + "";
         String sh = String.valueOf(c);
-        String bt = String.valueOf(d);
+        String bt = Byte.toString (d);
         
         System.out.println(" Hasil int a : "+ jr);
         System.out.println(" Hasil long b : "+ lg);

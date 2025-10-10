@@ -9,10 +9,10 @@ public class Days033 {
         System.out.print("Masukkan Uang : ");
         byte UangSaya = n.nextByte();
         
-        if (UangSaya != 50){
+        if (UangSaya != 40){
             System.out.println("Uang saya sama dengan 50! ");
         }else{
-            System.out.println("Uang saya tidak sama dengan 50! ");
+            System.out.println("Uang saya tidak sama dengan 40! ");
         }
     }
     

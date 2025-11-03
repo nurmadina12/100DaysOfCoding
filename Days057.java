@@ -6,7 +6,7 @@ public class Dayss057 {
             System.out.println("Luar i = " + i); 
 
             for (int j = 1; j <= 4; j++) {
-                System.out.println("  Inner loop Dalam j =" + j);
+                System.out.println(" Dalam j =" + j);
             }
            
         }

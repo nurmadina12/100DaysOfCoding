@@ -8,7 +8,7 @@ public class Dayss058 {
             System.out.print(i + " ");
         }
 
-        System.out.println("\n\nMencetak angka sampai 1 :");
+        System.out.println("\n\nMencetak angka N sampai 1 :");
         for (int i = N; i >= 1; i--) {
             System.out.print(i + " ");
         }

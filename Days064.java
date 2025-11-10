@@ -7,10 +7,10 @@ public class Dayss064 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Masukkan nilai M: ");
+        System.out.print("Masukkan nilai B: ");
         int B = input.nextInt();
 
-        System.out.print("Masukkan nilai N(Pangkatnya): ");
+        System.out.print("Masukkan nilai P (Pangkatnya): ");
         int P = input.nextInt();
 
         int hasil = 1;

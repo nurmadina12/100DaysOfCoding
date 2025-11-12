@@ -11,8 +11,7 @@ public class Dayss066 {
         int N = input.nextInt();
 
         for (int i = 1; i <= N; i++) {
-            System.out.println(""
-                    + "|");
+            System.out.println("*");
         }
     }
 

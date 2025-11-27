@@ -17,7 +17,7 @@ public class Dayss081 {
         if (ib >= 0 && ib < nilai.length) {
             System.out.println("Nilai pada indeks " + ib + " adalah: " + nilai[ib]);
         } else {
-            System.out.println("tidak valid! " + (nilai.length - 1));
+            System.out.println("tidak valid! ");
         }
     }
 

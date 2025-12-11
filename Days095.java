@@ -14,7 +14,7 @@ public class Dayss095 {
     }
 
     public static void umur(int r) {
-        System.out.println("Nama saya: " + r);
+        System.out.println("umur saya: " + r);
     }
 
     public static void kampus(String k) {

@@ -18,6 +18,6 @@ public class Dayss095 {
     }
 
     public static void kampus(String k) {
-        System.out.println("Nama saya: " + k);
+        System.out.println("kampus saya: " + k);
     }
 }
